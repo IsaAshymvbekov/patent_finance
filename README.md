@@ -1,6 +1,7 @@
 # patent_finance
-// Creator Isa Ashymbekov 
-// Summer Training in CE "Infosystems" Ministry Of Finance
+/* Creator Isa Ashymbekov 
+/* Summer Training in CE "Infosystems" under the Ministry Of Finance of Kyrgyz Republic
+
 This project is a backend web application designed to manage patent processing with integrated payment verification. The system handles the creation and lifecycle management of patent records while ensuring that all related payments are correctly validated before patent statuses are updated.
 his project is a backend web application designed to manage patent processing with integrated payment verification. The system ensures that patent records are created, updated, and finalized only after successful validation of corresponding payment transactions. It focuses on data integrity, transactional safety, and auditability.
 
